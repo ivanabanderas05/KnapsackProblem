@@ -16,7 +16,7 @@ This project provides **five different solutions**
 - Clear comments for easier understanding
 
 ## Project Structure 
-├─ 📄 README.md # Project documentation
-├─ 📄 backtracking.py # Plain backtraking solution
-├─ 📄 backtrackingBound.py # Backtracking implemented with branch and bound 
-└─ 📄 branchBound.py # Branch and Bound implementation
+- 📄 README.md # Project documentation
+- 📄 backtracking.py # Plain backtraking solution
+- 📄 backtrackingBound.py # Backtracking implemented with branch and bound
+-  📄 branchBound.py # Branch and Bound implementation
