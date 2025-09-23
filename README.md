@@ -10,12 +10,12 @@ This project provides **five different solutions**
 4. Backtracking with branch and bound 
 5. Branch and bound 
 
-##Features 
+## Features 
 - Implemented in Python
 - Five different algorithms with a running clock to compare which is quiskest
 - Clear comments for easier understanding
 
-##Project Structure 
+## Project Structure 
 ├─ 📄 README.md # Project documentation
 ├─ 📄 backtracking.py # Plain backtraking solution
 ├─ 📄 backtrackingBound.py # Backtracking implemented with branch and bound 
