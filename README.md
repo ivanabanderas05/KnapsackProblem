@@ -1,6 +1,6 @@
 # KnapsackProblem
 ## Overview
-The **Knapsack Problem** ask:  
+The **Knapsack Problem** asks:  
 >Given a set of items, each with its own weight and value, which subset of items to maximize the value without exceeding the knapsack's maximum weight?
 
 This project provides **five different solutions**
