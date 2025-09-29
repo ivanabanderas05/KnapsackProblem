@@ -34,11 +34,7 @@ def knapsack(S,W):
     else:
         return max(knapsack(S2, W), S[-1][0] + knapsack(S2, W-S[-1][1])) #Regresa el maximo comparando un caso donde no incluyes el ultimo elemento y un caso donde si 
     
-        #Opcion 1: S[:-1] Regresa toda la lista menos el ultimo elemento y el peso maximo (W) sigue siendo el mismo
-        
-        #opcion 2: De la ultima posicion en la lista S[-1] suma su respectivo valor que se encuentra en la posicion 0 (S[-1][0])
-        #y calcula recursivamente pero ahora para una lista donde no se incluye el ultimo valor (S[:-1] porque ya se uso) y ahora el peso maximo será 
-        #W actual menos el peso del ultimo elemento de la lista o S[-1][1]
+      
     
 #Solución con programación dinámica
 #llamada 1
@@ -151,4 +147,5 @@ end_DP = time.time()
 
 
 print("Tiempo de ejecucion: " , end_DP - start_DP , " segundos")
+
 
