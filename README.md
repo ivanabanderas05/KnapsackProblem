@@ -16,7 +16,7 @@ This project provides **five different solutions**
 - Clear comments for easier understanding
 
 ## Project Structure 
-- DP_Divide.py # comparison between divide and conquer and dynamic programming
+- 📄 DP_Divide.py # comparison between divide and conquer and dynamic programming
 - 📄 README.md # Project documentation
 - 📄 backtracking.py # Plain backtraking solution
 - 📄 backtrackingBound.py # Backtracking implemented with branch and bound
